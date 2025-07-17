@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm an aspiring software engineer from Bulgaria that is currently studying Javascript.
+Hi! I'm a software engineer from Bulgaria that is currently studying Javascript and focusing on front-end development.
 
 I am currently a Data Solutions Executive, looking to explore the fields of Software Engineering.
 
