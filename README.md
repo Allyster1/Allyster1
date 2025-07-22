@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hi! I'm a software engineer from Bulgaria that is currently studying Javascript and focusing on front-end development.
-
-I am currently a Data Solutions Executive, looking to explore the fields of Software Engineering.
+Hi! I'm Allyster1, a software engineer from Bulgaria that is currently studying Javascript and focusing on front-end development.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ovardovslav@gmail.com)
