@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Allyster1, a software engineer from Bulgaria that is currently studying Javascript and focusing on front-end development.
+Hi! I'm Allyster1, a software engineer from Bulgaria that is currently studying Javascript.
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ovardovslav@gmail.com)
